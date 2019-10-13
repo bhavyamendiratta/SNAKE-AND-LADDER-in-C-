@@ -404,6 +404,10 @@ void push(int x)
 
 void display()
 {
+int k=0;
+	while(k<10){
+		k++;
+	}
     if(top==0)
     {
         printf("player 1");
