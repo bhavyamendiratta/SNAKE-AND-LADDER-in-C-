@@ -259,7 +259,7 @@ printf("\t\t*************************************************\n\n\n");
 viewlist();
 }
 }
-checkposition();
+checkposition()
 {
     switch(position)
     {
